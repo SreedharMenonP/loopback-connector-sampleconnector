@@ -11,6 +11,11 @@ userVisible:
     family: Sample
     categories:
       - CRM
+      # license:
+      #   - scope: ipaas-aws
+      #     type: premium
+      #   - scope: software
+      #     type: premium
   license:
     - scope: ipaas-aws
       type: premium
