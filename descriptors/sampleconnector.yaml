@@ -1,1 +1,23 @@
-
+name: "sampleconnector"
+actionsWithFilterOperatorSupport: "retrieveall"
+featureToggle: "salesforce-app-level-toggle"
+userVisible:
+  name: "Salesforce"
+  icon: "img/salesforce.svg"
+  tagline: "Sample connector for test purpose"
+  description: "Sample connector for development"
+  tags:
+    family: Sample
+    categories:
+      - CRM
+      # license:
+      #   - scope: ipaas-aws
+      #     type: premium
+      #   - scope: software
+      #     type: premium
+  license:
+    - scope: ipaas-aws
+      type: premium
+    - scope: software
+      type: premium
+eventByPoller: true
