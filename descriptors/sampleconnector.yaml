@@ -1,6 +1,6 @@
 name: "sampleconnector"
 actionsWithFilterOperatorSupport: "retrieveall"
-featureToggle: "salesforce-app-level-toggle"
+featureToggle: "sampleconnector-app-level-toggle"
 userVisible:
   name: "Salesforce"
   icon: "img/salesforce.svg"
