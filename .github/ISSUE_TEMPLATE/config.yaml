@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug
+    url: >-
+      https://jsw.ibm.com/secure/secure/CreateIssueDetails!init.jspa?pid=95300&issuetype=10102&summary=Bug+template&description=Describe+the+bug&priority=3&components=205624&labels=squad-leo
+    about: Please report all bugs on the App Connect Jira project.
+  - name: Task
+    url: >-
+      https://jsw.ibm.com/secure/secure/CreateIssueDetails!init.jspa?pid=95300&issuetype=10100&summary=Task+template&description=Template+for+creating+a+Task&priority=3&components=205624&labels=squad-leo
+    about: Please open all Tasks on the App Connect Jira project.
+  - name: Maintenance
+    url: >-
+      https://jsw.ibm.com/secure/secure/CreateIssueDetails!init.jspa?pid=95300&issuetype=10201&summary=Maintenance+template&description=Describe+the+Maintenance+work&priority=3&components=205624&labels=squad-leo
+    about: Please open all maintenance issues on the App Connect Jira project.
