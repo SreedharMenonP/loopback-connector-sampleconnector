@@ -21,3 +21,4 @@ userVisible:
     - scope: software
       type: premium
 eventByPoller: true
+new: "key"
