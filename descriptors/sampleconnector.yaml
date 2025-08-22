@@ -15,4 +15,10 @@ userVisible:
       #     type: premium
       #   - scope: software
       #     type: premium
+  license:
+    - scope: ipaas-aws
+      type: premium
+    - scope: software
+      type: premium
 eventByPoller: true
+new: "new"
